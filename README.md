@@ -21,6 +21,6 @@ Clientes interessados nos serviços oferecidos.
 
 ## Tecnologias
 
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
